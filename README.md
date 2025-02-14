@@ -2,15 +2,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">I am Kukuh, a Backend Engineer.<br><br>Staying at the forefront of technology, always eager to learn and adopt new tools and methodologies.</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
